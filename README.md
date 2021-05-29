@@ -30,9 +30,9 @@
 | 5/24 (월) | O    | Unit 1 ~ Unit 8   |
 | 5/25 (화) | O    | Unit 9 ~ Unit 12  |
 | 5/26 (수) | O    | Unit 13 ~ Unit 17 |
-| 5/27 (목) |      |                   |
-| 5/28 (금) |      |                   |
-| 5/29 (토) |      |                   |
+| 5/27 (목) | O    | Unit 17 ~ Unit 20 |
+| 5/28 (금) | X    |                   |
+| 5/29 (토) | O    | Unit 21 ~ Unit 22 |
 | 5/30 (일) |      |                   |
 | 5/31 (월) |      |                   |
 
@@ -50,25 +50,25 @@
 
 ### 기본 문법
 
-- [ ] [Unit 1. Go 언어란?](http://pyrasis.com/book/GoForTheReallyImpatient/Unit01)
-- [ ] [Unit 5. Hello, world!로 시작하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit05)
-- [ ] [Unit 6. 기본 문법 알아보기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit06)
-- [ ] [Unit 7. 변수 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit07)
-- [ ] [Unit 8. 숫자 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit08)
-- [ ] [Unit 9. 문자열 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit09)
-- [ ] [Unit 10. 불 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit10)
-- [ ] [Unit 11. 상수 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit11)
-- [ ] [Unit 12. 열거형 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit12)
-- [ ] [Unit 13. 연산자 알아보기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit13)
-- [ ] [Unit 14. 패키지 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit14)
-- [ ] [Unit 15. if 조건문 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit15)
-- [ ] [Unit 16. if 조건문 안에서 함수 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit16)
-- [ ] [Unit 17. for 반복문 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit17)
-- [ ] [Unit 18. goto 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit18) (??)
-- [ ] [Unit 19. switch 분기문 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit19)
-- [ ] [Unit 20. 간단한 예제로 문법 익숙해지기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit20)
-- [ ] [Unit 21. 배열 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit21)
-- [ ] [Unit 22. 슬라이스 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit22)
+- [x] [Unit 1. Go 언어란?](http://pyrasis.com/book/GoForTheReallyImpatient/Unit01)
+- [x] [Unit 5. Hello, world!로 시작하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit05)
+- [x] [Unit 6. 기본 문법 알아보기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit06)
+- [x] [Unit 7. 변수 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit07)
+- [x] [Unit 8. 숫자 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit08)
+- [x] [Unit 9. 문자열 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit09)
+- [x] [Unit 10. 불 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit10)
+- [x] [Unit 11. 상수 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit11)
+- [x] [Unit 12. 열거형 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit12)
+- [x] [Unit 13. 연산자 알아보기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit13)
+- [x] [Unit 14. 패키지 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit14)
+- [x] [Unit 15. if 조건문 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit15)
+- [x] [Unit 16. if 조건문 안에서 함수 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit16)
+- [x] [Unit 17. for 반복문 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit17)
+- [x] [Unit 18. goto 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit18) (??)
+- [x] [Unit 19. switch 분기문 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit19)
+- [x] [Unit 20. 간단한 예제로 문법 익숙해지기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit20)
+- [x] [Unit 21. 배열 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit21)
+- [x] [Unit 22. 슬라이스 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit22)
 - [ ] [Unit 23. 맵 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit23)
 - [ ] [Unit 24. 함수 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit24)
 - [ ] [Unit 25. 클로저 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit25)
