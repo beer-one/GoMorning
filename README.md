@@ -35,6 +35,17 @@
 | 5/29 (토) | O    | Unit 21 ~ Unit 22 |
 | 5/30 (일) |      |                   |
 | 5/31 (월) |      |                   |
+| 6/1 (화)  |      |                   |
+| 6/2 (수)  |      |                   |
+| 6/3 (목)  | O    | Unit 23 ~ Unit 24 |
+|           |      |                   |
+|           |      |                   |
+|           |      |                   |
+|           |      |                   |
+|           |      |                   |
+|           |      |                   |
+|           |      |                   |
+|           |      |                   |
 
 
 
@@ -69,8 +80,8 @@
 - [x] [Unit 20. 간단한 예제로 문법 익숙해지기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit20)
 - [x] [Unit 21. 배열 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit21)
 - [x] [Unit 22. 슬라이스 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit22)
-- [ ] [Unit 23. 맵 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit23)
-- [ ] [Unit 24. 함수 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit24)
+- [x] [Unit 23. 맵 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit23)
+- [x] [Unit 24. 함수 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit24)
 - [ ] [Unit 25. 클로저 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit25)
 - [ ] [Unit 26. 지연 호출 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit26)
 - [ ] [Unit 27. 패닉과 복구 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit27)
