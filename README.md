@@ -39,8 +39,8 @@
 | 6/2 (수)  |      |                   |
 | 6/3 (목)  | O    | Unit 23 ~ Unit 24 |
 |           |      |                   |
-|           |      |                   |
-|           |      |                   |
+| 6/7 (월)  | O    | Unit 25 ~ Unit 28 |
+| 6/8 (화)  | O    | Unit 29 ~ Unit 31 |
 |           |      |                   |
 |           |      |                   |
 |           |      |                   |
@@ -86,9 +86,9 @@
 - [x] [Unit 26. 지연 호출 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit26)
 - [x] [Unit 27. 패닉과 복구 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit27)
 - [x] [Unit 28. 포인터 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit28)
-- [ ] [Unit 29. 구조체 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit29)
-- [ ] [Unit 30. 구조체에 메서드 연결하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit30)
-- [ ] [Unit 31. 구조체 임베딩 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit31)
+- [x] [Unit 29. 구조체 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit29)
+- [x] [Unit 30. 구조체에 메서드 연결하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit30)
+- [x] [Unit 31. 구조체 임베딩 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit31)
 - [ ] [Unit 32. 인터페이스 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit32)
 
 
