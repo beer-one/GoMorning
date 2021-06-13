@@ -41,7 +41,7 @@
 |           |      |                   |
 | 6/7 (월)  | O    | Unit 25 ~ Unit 28 |
 | 6/8 (화)  | O    | Unit 29 ~ Unit 31 |
-|           |      |                   |
+| 6/13(일)  | O    | Unit 32 ~ Unit 33 |
 |           |      |                   |
 |           |      |                   |
 |           |      |                   |
@@ -89,13 +89,13 @@
 - [x] [Unit 29. 구조체 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit29)
 - [x] [Unit 30. 구조체에 메서드 연결하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit30)
 - [x] [Unit 31. 구조체 임베딩 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit31)
-- [ ] [Unit 32. 인터페이스 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit32)
+- [x] [Unit 32. 인터페이스 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit32)
 
 
 
 ### GoRoutine / 동시성 프로그래밍
 
-- [ ] [Unit 33. 고루틴 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit33)
+- [x] [Unit 33. 고루틴 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit33)
 - [ ] [Unit 34. 채널 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit34)
 - [ ] [Unit 35. 동기화 객체 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit35)
 
