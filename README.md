@@ -96,7 +96,7 @@
 ### GoRoutine / 동시성 프로그래밍
 
 - [x] [Unit 33. 고루틴 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit33)
-- [ ] [Unit 34. 채널 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit34)
+- [x] [Unit 34. 채널 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit34)
 - [ ] [Unit 35. 동기화 객체 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit35)
 
 
